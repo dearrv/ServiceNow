@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">7e74972adbcb1300e6efaab35b9619bd</sp_column>
+        <sp_widget display_value="CAB Workbench - Meetings Calendar">28b1fc649f131200b18a7feea57fcf48</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-05 11:26:31</sys_created_on>
+        <sys_id>fe745b2adbcb1300e6efaab35b9619c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DemoHex" source="x_237169_demohex">12fe0726dbcb1300e6efaab35b961965</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DemoHex">12fe0726dbcb1300e6efaab35b961965</sys_scope>
+        <sys_update_name>sp_instance_fe745b2adbcb1300e6efaab35b9619c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-05 11:26:31</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=fe745b2adbcb1300e6efaab35b9619c2"/>
+</record_update>
